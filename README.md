@@ -1,3 +1,3 @@
 # checkers-pygame
-small english draughts python script 
-to run use $python3 try8.py 
+# small english draughts python script 
+# to run use $python3 try8.py 
