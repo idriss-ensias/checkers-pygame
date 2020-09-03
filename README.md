@@ -8,5 +8,7 @@ a game of checkers developped using pygame and basic python you can use as a sma
 - the paths you can take when capturing pieces is drawn as tree
 - the points and the move log are shown on the right
 - you can start a new game 
-- on the next update i will turn this game into a network game (i knwo using web tech is much easier but i'm doing this to learn python more)  
+- on the next update i will turn this game into a network game (i knwo using web tech is much easier but i'm doing this to learn python more)
+- i will also try to implement an AI module to play against the computer, i am still reading on the subject 
+- please note that i did not copy from another checkers game project and all the algorithms are mine 
 - i would appreciate your comment and feedback at idriss.el.moussaouiti@gmail.com
