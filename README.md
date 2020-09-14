@@ -12,3 +12,5 @@ a game of checkers developped using pygame and basic python you can use as a sma
 - i will also try to implement an AI module to play against the computer, i am still reading on the subject 
 - please note that i did not copy from another checkers game project and all the algorithms are mine 
 - i would appreciate your comment and feedback at idriss.el.moussaouiti@gmail.com
+
+# Idriss El Moussaouiti
